@@ -14,7 +14,7 @@ The model chosen for doing the suggestions of text in the commit messages has be
 However, we must consider that the network is not able neither to process the raw text as input nor to generate raw text at the output. In order to be able to forward the text through the network and to generate a comprehensible output the raw text used either in the training phase or the inference phase must be translated to a numeric based vocabulary. For this purpose, the creators of the model architecture provide with it a tokenizer so we can convert the raw text input to a numeric system comprehensible for the network and can convert the output back to text. 
 
 <p align="center">
-  <img src='README images/token.png'/ width = 250>
+  <img src='README images/token.png'/>
 </p>
 
 ### Installation and execution
