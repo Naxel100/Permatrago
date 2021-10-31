@@ -3,13 +3,13 @@ Permatrago
 
 # Causal LM for commit messages
 
-## Preprocessing
+### Preprocessing
 
 
 ### Model
 
 
-## Installation
+### Installation
 
 
 Project Organization
@@ -65,9 +65,9 @@ Project Organization
 ## Team
 
 This project was developed by:
-| [![CarlOwOs](https://avatars3.githubusercontent.com/u/49389491?s=60&u=b239b67c3f064bf2dae05e08ae9965b7c7e34c36&v=4)](https://github.com/CarlOwOs) | [![Naxel100](https://avatars3.githubusercontent.com/u/43076234?v=4)](https://github.com/Naxel100) | [![marcfuon](https://avatars3.githubusercontent.com/u/49389563?v=4)](https://github.com/marcfuon) | [![turcharnau](https://avatars2.githubusercontent.com/u/70148725?v=4&s=60)](https://github.com/turcharnau) |
+| [![CarlOwOs](https://avatars.githubusercontent.com/u/49389491?v=4)](https://github.com/CarlOwOs) | [![Naxel100](https://avatars2.githubusercontent.com/u/43076234?v=4)](https://github.com/Naxel100) | [![marcfuon](https://avatars2.githubusercontent.com/u/49389563?v=4)](https://github.com/marcfuon) | [![turcharnau](https://avatars.githubusercontent.com/u/70148725?v=4)](https://github.com/turcharnau) |
 | --- | --- | --- | --- |
-| [Carlos Hurtado](https://github.com/CarlOwOs) | [Alex Ferrando](https://github.com/Naxel100) | [Marc Fuentes](https://github.com/alexmartiguiu) | [Arnau Turch](https://github.com/turcharnau) |
+| [Carlos Hurtado](https://github.com/CarlOwOs) | [Alex Ferrando](https://github.com/Naxel100) | [Marc Fuentes](https://github.com/marcfuon) | [Arnau Turch](https://github.com/turcharnau) |
 
 
 Students of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
