@@ -1,7 +1,16 @@
 Permatrago
 ==============================
 
-TAED2 PEOJECT
+# Causal LM for commit messages
+
+## Preprocessing
+
+
+### Model
+
+
+## Installation
+
 
 Project Organization
 ------------
@@ -53,5 +62,12 @@ Project Organization
 
 
 --------
+## Team
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+This project was developed by:
+| [![CarlOwOs](https://avatars3.githubusercontent.com/u/49389491?s=60&u=b239b67c3f064bf2dae05e08ae9965b7c7e34c36&v=4)](https://github.com/CarlOwOs) | [![Naxel100](https://avatars.githubusercontent.com/u/43076234?v=4)](https://github.com/Naxel100) | [![alexmartiguiu](https://avatars2.githubusercontent.com/u/49391060?v=4&s=60)](https://github.com/alexmartiguiu) | [![turcharnau](https://avatars2.githubusercontent.com/u/70148725?v=4&s=60)](https://github.com/turcharnau) |
+| --- | --- | --- | --- |
+| [Carlos Hurtado](https://github.com/CarlOwOs) | [Alex Ferrando](https://github.com/Naxel100) | [Marc Fuentes](https://github.com/alexmartiguiu) | [Arnau Turch](https://github.com/turcharnau) |
+
+
+Students of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
