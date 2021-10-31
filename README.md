@@ -3,13 +3,11 @@ Permatrago
 
 # Causal LM for commit messages
 
-### Preprocessing
-
-
 ### Model
 
+### Installation and execution
 
-### Installation
+
 
 
 Project Organization
