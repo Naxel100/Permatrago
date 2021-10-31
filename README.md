@@ -5,9 +5,19 @@ Permatrago
 
 ### Model
 
+<p align="center">
+  <img src='README images/model.png'/ width = 250>
+</p>
+
+<p align="center">
+  <img src='README images/token.png'/ width = 250>
+</p>
+
 ### Installation and execution
 
-
+<p align="center">
+  <img src='README images/demo.png'/ width = 250>
+</p>
 
 
 Project Organization
