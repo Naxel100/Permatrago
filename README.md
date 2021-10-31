@@ -20,7 +20,7 @@ However, we must consider that the network is not able neither to process the ra
 ### Execution
 All the files of the repository are python scripts easy to execute
 
-For running de demo, the python library streamlit has to be installed. Once don, it has to be executed with the following command where the file is located (src/visualization/):
+For running de demo, the python library streamlit has to be installed. Once done, it has to be executed with the following command where the file is located (src/visualization/):
 
 `streamlit run demo.py`
 
