@@ -5,9 +5,13 @@ Permatrago
 
 ### Model
 
+The model chosen for doing the suggestions of text in the commit messages has been a deep neural network based on decoder transformers. In this case we have fine-tuned DistilGPT2 which is a lighter but faster version of OpensAI’s GPT2 developed by huggingface trained with a reproduction of OpenAI's WebText dataset (https://skylion007.github.io/OpenWebTextCorpus/). The model has 6 layers, 768 dimensions and 12 heads, totalizing 82M parameters
+
 <p align="center">
   <img src='README images/model.png'/ width = 250>
 </p>
+
+However, we must consider that the network is not able neither to process the raw text as input nor to generate raw text at the output. In order to be able to forward the text through the network and to generate a comprehensible output the raw text used either in the training phase or the inference phase must be translated to a numeric based vocabulary. For this purpose, the creators of the model architecture provide with it a tokenizer so we can convert the raw text input to a numeric system comprehensible for the network and can convert the output back to text. 
 
 <p align="center">
   <img src='README images/token.png'/ width = 250>
